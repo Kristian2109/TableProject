@@ -29,7 +29,7 @@ Course project for Second Semester
 - We place a backslash after every symbol double quotes (").
 
 5. Editing
-- We raise an error if the value is bigger than 100 symbols. It wouldn't be saved.
+- We raise an error if the value is bigger than 256 symbols. It wouldn't be saved.
 
 6. Formulas
 -  Almost like in your document.
